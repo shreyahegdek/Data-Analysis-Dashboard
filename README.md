@@ -3,7 +3,7 @@
 The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
 ## Dataset used
 - <a href="https://github.com/shreyahegdek/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis%202022.xlsx">Dataset</a>
-## questions (KPIs)
+## Questions (KPIs)
 - Compare the sales and orders using single chart.
 
 - Which month got the highest sales and orders?
@@ -28,4 +28,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic
+## Dashboard
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/e5552243-4a5d-4d80-a4dd-22195c3206d2" />
+
 
